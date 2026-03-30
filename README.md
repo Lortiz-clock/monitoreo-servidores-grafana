@@ -1,4 +1,4 @@
-# Sistema de Monitoreo de Infraestructura con Nagios Core y Grafana
+                              # Sistema de Monitoreo de Infraestructura con Nagios Core y Grafana
 
 Este proyecto consiste en el despliegue de una arquitectura de monitoreo profesional para servidores, diseñada para optimizar la visibilidad del rendimiento de hardware en tiempo real. Implementé una solución robusta utilizando virtualización y herramientas de código abierto líderes en la industria.
 
